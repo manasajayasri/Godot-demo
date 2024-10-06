@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+.idea
+addons
+android
+export_presets.cfg
+openxr_action_map.tres
+mygame.keystore
